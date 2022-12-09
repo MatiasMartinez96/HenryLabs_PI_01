@@ -5,7 +5,7 @@
 # <h1 align=center>**`Data Engineering`**</h1>
 
 <p align="center">
-<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fmorioh.com%2Fp%2Fe8d81910885d&psig=AOvVaw21_uEiqd-XHm75Iqr5wVlT&ust=1670647152569000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiwmeLb6_sCFQAAAAAdAAAAABAJ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dataversity.net%2Fwant-data-engineer%2F&psig=AOvVaw0b5MTclr5HuKSfnvJ0gwR2&ust=1670647438406000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDm1urc6_sCFQAAAAAdAAAAABAE)"  height=300>
+<img src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fmorioh.com%2Fp%2Fe8d81910885d&psig=AOvVaw21_uEiqd-XHm75Iqr5wVlT&ust=1670647152569000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiwmeLb6_sCFQAAAAAdAAAAABAJ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dataversity.net%2Fwant-data-engineer%2F&psig=AOvVaw0b5MTclr5HuKSfnvJ0gwR2&ust=1670647438406000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDm1urc6_sCFQAAAAAdAAAAABAE)](https://onlinedegrees.sandiego.edu/wp-content/uploads/2022/01/how-to-become-a-data-engineer.jpg)"  height=300>
 </p>
 
 ¡Bienvenidos a mi primer proyecto individual de la etapa de LABS de SoyHenry ! En este repositorio podrán observar el desarrollo de un proceso EDA, la creación de una API y un container de Docker y su consecuente deploy en Mogenius. La finalidad del proyecto es simular el rol de un ***Data Engineer***.
