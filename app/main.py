@@ -43,4 +43,3 @@ async def actor(plataforma:str,anio:int):
     # Convertimos en lista el resultado de la funcion importada para facilitar el retorno de su informacion en la API
     lista = get_actor(plataforma,anio).to_numpy().tolist()
     return f'El actor que mas se repite en la plataforma {plataforma} en el año {anio} es{lista[0][2]}. Aparece en {lista[0][1]} peliculas/series'
-
