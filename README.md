@@ -5,7 +5,7 @@
 # <h1 align=center>**`Data Engineering`**</h1>
 
 <p align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.projectpro.io%2Farticle%2Freal-world-data-engineering-projects-%2F472&psig=AOvVaw1Jnhyn8rCNonqqnbPyxqhX&ust=1670642287708000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLii75DK6_sCFQAAAAAdAAAAABAE"  height=300>
+<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.projectpro.io%2Farticle%2Freal-world-data-engineering-projects-%2F472&psig=AOvVaw1Jnhyn8rCNonqqnbPyxqhX&ust=1670642287708000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLii75DK6_sCFQAAAAAdAAAAABAE](https://dezyre.gumlet.io/images/blog/real-world-data-engineering-projects-/image_58806871221629815275868.png?w=400&dpr=2.6)"  height=300>
 </p>
 
 ¡Bienvenidos a mi primer proyecto individual de la etapa de LABS de SoyHenry ! En este repositorio podrán observar el desarrollo de un proceso EDA, la creación de una API y un container de Docker y su consecuente deploy en Mogenius. La finalidad del proyecto es simular el rol de un ***Data Engineer***.
